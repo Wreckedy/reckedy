@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-
+l
 local isSpamming = false
 
 local Window = OrionLib:MakeWindow({Name = "Washiez Troll", HidePremium = false, SaveConfig = true, ConfigFolder = "Cwueri"})
